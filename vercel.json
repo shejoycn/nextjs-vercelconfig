@@ -1,7 +1,7 @@
 {
   "rewrites": [
     {
-      "source": "/proxy/:match*",
+      "source": "/globalassets/:match*",
       "destination": "https://example.com/:match*"
     }
   ]
