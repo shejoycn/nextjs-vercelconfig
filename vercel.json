@@ -1,8 +1,8 @@
 {
-    "rewrites": [
-      {
-        "source": "/globalassets/:match*",
-        "destination": "https://opdc01mstry4a91inte.dxcloud.episerver.net//globalassets/:match*"
-      }
-    ]
+  "rewrites": [
+    {
+      "source": "/proxy/:match*",
+      "destination": "https://example.com/:match*"
+    }
+  ]
 }
