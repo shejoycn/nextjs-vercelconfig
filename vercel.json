@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/globalassets/:match*",
-      "destination": "https://examgggple.com/:match*"
+      "destination": "https://www.valtech.com/:match*"
     }
   ]
 }
