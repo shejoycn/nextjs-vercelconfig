@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/globalassets/:match*",
-      "destination": "https://example.com/:match*"
+      "destination": "https://examgggple.com/:match*"
     }
   ]
 }
